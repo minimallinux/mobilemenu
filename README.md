@@ -5,6 +5,8 @@ CSS hides Menu icon (Icomoon) on Desktop
 Adjusts for Desktop/Mobile screen sizes.
 Uses a 200 x 40px size png logo.
 
+Good for up to 8 menu items
+
 All files included, just run in browser.
 
 Easy to customise with minimal styling.
